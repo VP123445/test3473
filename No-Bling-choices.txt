@@ -1,0 +1,4 @@
+"No-Bling"
+{
+	"sel"		"Couriers,Wards,Wearables,Abilities,Taunts,Loadout,Potato"
+}

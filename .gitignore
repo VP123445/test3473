@@ -1,0 +1,19 @@
+## Ignore
+
+# MOD
+log/
+src/
+zip/
+test/
+
+# tools
+# tools/
+
+# package
+# *.zip
+
+# hashes
+# *.sha256
+
+# git
+*.yml

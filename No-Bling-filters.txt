@@ -1,0 +1,6 @@
+"user-filters"
+{    
+  keep_item "7974,9241,9231,9197"
+  keep_visuals "7974,9241,9231,9197"   
+  
+}
